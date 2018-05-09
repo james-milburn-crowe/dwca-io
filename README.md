@@ -74,7 +74,7 @@ Add the dwca-io artifact
   <dependency>
     <groupId>org.gbif</groupId>
     <artifactId>dwca-io</artifactId>
-    <version>1.31</version>
+    <version>1.32</version>
   </dependency>
 ```
 
